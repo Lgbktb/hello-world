@@ -1,4 +1,4 @@
 # hello-world
 Going through the Github Tutorial
-Hi, welcome to the place. 
-k.
+\nHi, welcome to the place. 
+\nk.
